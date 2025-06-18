@@ -29,8 +29,4 @@ No classes. No indentation wars. No boilerplate. Just one interpreter file, and 
 3. to run, run the interpreter and enter your file name
 main.eye         # Your Eye code
 data.json        # Your linked host file
-
-##❓ Built-In Help
-Just include this in your script:
-helpme
-It will print a full Eye syntax guide to the console.
+---
