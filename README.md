@@ -26,8 +26,8 @@ No classes. No indentation wars. No boilerplate. Just one interpreter file, and 
 
 ## 🧠 Syntax Basics
 
-### 📌 Linking to host data
-```eye
+📌 Linking to host data
+
 Linkto("data.json")
 This links Eye to a shared JSON file. All external data goes through host{}.
 
@@ -148,9 +148,5 @@ main.eye         # Your Eye code
 data.json        # Your linked host file
 ❓ Built-In Help
 Just include this in your script:
-
-eye
-Copy
-Edit
 helpme
 It will print a full Eye syntax guide to the console.
